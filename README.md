@@ -50,4 +50,4 @@ print("---------------------------------------------------------------")
 ![image](https://github.com/Adchayakiruthika18/Single-server-infinite-capacity---Markov-Model/assets/147139995/3065e63e-464a-44f2-9847-b6fc97bc26c8)
 
 ## Result :
-By using python programming to analyse given data using coeffificient of correlation and regression line is successfully executed.
+By using python programming we find the Single server with infinite capacity and calculated.
